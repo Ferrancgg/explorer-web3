@@ -1,5 +1,8 @@
 {
   "devDependencies": {
     "nodemon": "^3.1.9"
+  },
+  "dependencies": {
+    "web3": "^4.16.0"
   }
 }
